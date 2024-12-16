@@ -12,9 +12,12 @@
 
 ### 📈 Github Stats :
 
-<div align="center">
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=KapilSareen&&theme=tokyonight&show=prs_merged,prs_merged_percentage&show_icons=true" />
-        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSareen&theme=tokyonight&layout=compact&exclude_repo=DAI-101_assignments"/>
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KapilSareen&&theme=dark&show=prs_merged,prs_merged_percentage&show_icons=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSareen&theme=dark&layout=compact&exclude_repo=DAI-101_assignments" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=KapilSareen&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ### 🧰 Tech Stack:
