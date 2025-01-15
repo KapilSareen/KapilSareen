@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Kapil Sareen</h1>
-<h3 align="center">I love coding, solving CTF challenges, and contributing to open source</h3>
+<h3 align="center">I enjoy coding, solving CTFs for fun, and contributing to open-source projects</h3>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=KapilSareen"/>
 
