@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Kapil Sareen</h1>
 <h3 align="center">I enjoy coding and playing CTFs</h3>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=KapilSareen"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=KapilSareen" alt=""/>
 
 
 ### 🤠 About Me:
@@ -17,7 +17,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilSareen&theme=dark&layout=compact&exclude_repo=DAI-101_assignments" alt="Top Languages" />
   
-  <img src="https://streak-stats.demolab.com/?user=KapilSareen&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=KapilSareen&theme=dark" alt="" />
 </div>
 
 ### 🧰 Tech Stack:
